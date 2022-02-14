@@ -1,0 +1,14 @@
+"use strict";
+exports.id = 3473;
+exports.ids = [3473];
+exports.modules = {
+
+/***/ 3473:
+/***/ ((module) => {
+
+module.exports = JSON.parse('[{"id":1,"icon":"pe-7s-paint-bucket color-font","title":"Design Grafic","content":"Punem la dispoziția clienților o gamă completă de lucrări graﬁce, dar și servicii de creație: pliante, cataloage, aﬁșe, bannere, etichete, cutii personalizate, proiectare stante ambalaje, cărți de vizitp, tehnoredactare (cărți, broșuri,reviste), design LOGO"},{"id":2,"icon":"pe-7s-display2 color-font","title":"Producție publicitarp","content":"Pentru producția publicitară avem soluții creative diverse. Cu ajutorul tehnologiilor de ultimă generație, oferim multiple servicii de calitate superioară: print cărți de vizită, print flyere, print mape personalizate, print cataloage, print etichete, casete luminoase, gravare laser, broderie personalizată...Realizăm obiecte promoționale personalizate pentru promovarea companiei tale: brelocuri, căni, accesorii birou, personalizare îmbrăcăminte, felicitări, insturmente de scris..."},{"id":3,"icon":"pe-7s-display1 color-font","title":"WEB Design","content":"Oferim iservicii de web design, care să completeze imaginea fără cusur a companiei tale pe piață: site-uri de prezentare, site - ecommerce, blog-uri"},{"id":4,"icon":"pe-7s-diskette","title":"Document Legal Policy","content":"Tempore corrupti temporibus fuga earum asperiores fugit laudantium."}]');
+
+/***/ })
+
+};
+;

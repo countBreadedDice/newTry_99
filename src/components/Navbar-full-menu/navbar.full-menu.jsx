@@ -11,7 +11,7 @@ const NavbarFullMenu = ({ theme }) => {
       >
         <div className="container-fluid">
           <div className="logo">
-            <a href="/demos/cscdesign">
+          <Link href="/demos/cscdesign">
               {theme ? (
                 theme === "light" ? (
                   <img src="/img/logo-dark-csc.png" alt="logo" />
@@ -21,7 +21,7 @@ const NavbarFullMenu = ({ theme }) => {
               ) : (
                 <img src="/img/logo-light-csc.png" alt="logo" />
               )}
-            </a>
+            </Link>
           </div>
           <div className="menu-icon">
             <span className="icon">

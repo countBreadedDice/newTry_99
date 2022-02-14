@@ -16,7 +16,7 @@ const Intro4 = ({ sliderRef, blackStar }) => {
                Ar trebui să <span className="color-font">perseverăm în ambiții,</span> chiar și în proiecte nerealiste. Pentru că lucrurile se întâmplă doar când <span className="color-font">visăm.</span>
               </h1>
               
-              <h3>"Andree Putman"</h3>
+              <h3>&quot; Andree Putman &quot;</h3>
               
             </div>
           </div>
